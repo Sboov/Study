@@ -1,0 +1,14 @@
+E:\Program Files (x86)\Programowanie\Prywatne\Choinka Łukasza\bin\Debug\net8.0\Choinka Łukasza.exe
+E:\Program Files (x86)\Programowanie\Prywatne\Choinka Łukasza\bin\Debug\net8.0\Choinka Łukasza.deps.json
+E:\Program Files (x86)\Programowanie\Prywatne\Choinka Łukasza\bin\Debug\net8.0\Choinka Łukasza.runtimeconfig.json
+E:\Program Files (x86)\Programowanie\Prywatne\Choinka Łukasza\bin\Debug\net8.0\Choinka Łukasza.dll
+E:\Program Files (x86)\Programowanie\Prywatne\Choinka Łukasza\bin\Debug\net8.0\Choinka Łukasza.pdb
+E:\Program Files (x86)\Programowanie\Prywatne\Choinka Łukasza\obj\Debug\net8.0\Choinka Łukasza.GeneratedMSBuildEditorConfig.editorconfig
+E:\Program Files (x86)\Programowanie\Prywatne\Choinka Łukasza\obj\Debug\net8.0\Choinka Łukasza.AssemblyInfoInputs.cache
+E:\Program Files (x86)\Programowanie\Prywatne\Choinka Łukasza\obj\Debug\net8.0\Choinka Łukasza.AssemblyInfo.cs
+E:\Program Files (x86)\Programowanie\Prywatne\Choinka Łukasza\obj\Debug\net8.0\Choinka Łukasza.csproj.CoreCompileInputs.cache
+E:\Program Files (x86)\Programowanie\Prywatne\Choinka Łukasza\obj\Debug\net8.0\Choinka Łukasza.dll
+E:\Program Files (x86)\Programowanie\Prywatne\Choinka Łukasza\obj\Debug\net8.0\refint\Choinka Łukasza.dll
+E:\Program Files (x86)\Programowanie\Prywatne\Choinka Łukasza\obj\Debug\net8.0\Choinka Łukasza.pdb
+E:\Program Files (x86)\Programowanie\Prywatne\Choinka Łukasza\obj\Debug\net8.0\Choinka Łukasza.genruntimeconfig.cache
+E:\Program Files (x86)\Programowanie\Prywatne\Choinka Łukasza\obj\Debug\net8.0\ref\Choinka Łukasza.dll
