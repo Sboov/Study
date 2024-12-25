@@ -1,0 +1,14 @@
+E:\Program Files (x86)\Programowanie\Prywatne\Calculator\bin\Debug\net8.0\Calculator.exe
+E:\Program Files (x86)\Programowanie\Prywatne\Calculator\bin\Debug\net8.0\Calculator.deps.json
+E:\Program Files (x86)\Programowanie\Prywatne\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+E:\Program Files (x86)\Programowanie\Prywatne\Calculator\bin\Debug\net8.0\Calculator.dll
+E:\Program Files (x86)\Programowanie\Prywatne\Calculator\bin\Debug\net8.0\Calculator.pdb
+E:\Program Files (x86)\Programowanie\Prywatne\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Program Files (x86)\Programowanie\Prywatne\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+E:\Program Files (x86)\Programowanie\Prywatne\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+E:\Program Files (x86)\Programowanie\Prywatne\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+E:\Program Files (x86)\Programowanie\Prywatne\Calculator\obj\Debug\net8.0\Calculator.dll
+E:\Program Files (x86)\Programowanie\Prywatne\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+E:\Program Files (x86)\Programowanie\Prywatne\Calculator\obj\Debug\net8.0\Calculator.pdb
+E:\Program Files (x86)\Programowanie\Prywatne\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+E:\Program Files (x86)\Programowanie\Prywatne\Calculator\obj\Debug\net8.0\ref\Calculator.dll
