@@ -1,0 +1,14 @@
+E:\Program Files (x86)\Programowanie\Prywatne\Bin2Dec\bin\Debug\net8.0\Bin2Dec.exe
+E:\Program Files (x86)\Programowanie\Prywatne\Bin2Dec\bin\Debug\net8.0\Bin2Dec.deps.json
+E:\Program Files (x86)\Programowanie\Prywatne\Bin2Dec\bin\Debug\net8.0\Bin2Dec.runtimeconfig.json
+E:\Program Files (x86)\Programowanie\Prywatne\Bin2Dec\bin\Debug\net8.0\Bin2Dec.dll
+E:\Program Files (x86)\Programowanie\Prywatne\Bin2Dec\bin\Debug\net8.0\Bin2Dec.pdb
+E:\Program Files (x86)\Programowanie\Prywatne\Bin2Dec\obj\Debug\net8.0\Bin2Dec.GeneratedMSBuildEditorConfig.editorconfig
+E:\Program Files (x86)\Programowanie\Prywatne\Bin2Dec\obj\Debug\net8.0\Bin2Dec.AssemblyInfoInputs.cache
+E:\Program Files (x86)\Programowanie\Prywatne\Bin2Dec\obj\Debug\net8.0\Bin2Dec.AssemblyInfo.cs
+E:\Program Files (x86)\Programowanie\Prywatne\Bin2Dec\obj\Debug\net8.0\Bin2Dec.csproj.CoreCompileInputs.cache
+E:\Program Files (x86)\Programowanie\Prywatne\Bin2Dec\obj\Debug\net8.0\Bin2Dec.dll
+E:\Program Files (x86)\Programowanie\Prywatne\Bin2Dec\obj\Debug\net8.0\refint\Bin2Dec.dll
+E:\Program Files (x86)\Programowanie\Prywatne\Bin2Dec\obj\Debug\net8.0\Bin2Dec.pdb
+E:\Program Files (x86)\Programowanie\Prywatne\Bin2Dec\obj\Debug\net8.0\Bin2Dec.genruntimeconfig.cache
+E:\Program Files (x86)\Programowanie\Prywatne\Bin2Dec\obj\Debug\net8.0\ref\Bin2Dec.dll
